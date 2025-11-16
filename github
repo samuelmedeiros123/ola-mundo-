@@ -1,4 +1,4 @@
-<!doctyper>
+<!DOCTYPE html> 
 <html>
 <head>
     <title>GitHub Repository</title>
@@ -6,3 +6,4 @@
 <body>
     <h1>seja bem vindo ao meu repositório</h1>
     <p>Esse repositório contém varios  códigos  simples .</p>
+</body>
